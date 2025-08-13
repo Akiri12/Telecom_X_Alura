@@ -8,6 +8,7 @@ Este repositorio contiene los siguientes archivos:
 
 - `TelecomX_LATAM.ipynb` : Notebook con el proceso ETL completo, incluyendo limpieza, normalización, cálculo de métricas y visualizaciones.
 - `TelecomX_Data_Limpio.csv` : Dataset limpio y transformado.
+- `TelecomX_Data.json` : Datos originales sin limpiar, en formato JSON.
 - Carpeta `graficos/` : Contiene los gráficos generados durante el análisis:
   - Histograma de abandono por Tenure
   - Tasa de Abandono (%) por Antigüedad
